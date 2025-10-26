@@ -80,7 +80,7 @@ Includes user authentication, form validation, and responsive UI design for serv
 ## 📫 Contact
 
 📧 **Email:** marcosito62@gmail.com  
-💼 **LinkedIn:** [linkedin.com/in/marc-henry-jr-moïse-732102269]
+💼 **LinkedIn:** [linkedin.com/in/marc-henry-jr-moïse-732102269](https://www.linkedin.com/in/marc-henry-jr-moïse-732102269)  
 🧑‍💻 **GitHub:** [github.com/marcjr1](https://github.com/marcjr1)
 
 ---
